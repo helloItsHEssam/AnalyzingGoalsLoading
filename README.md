@@ -4,8 +4,7 @@ I crafted this project during my SwiftUI animation learning path, exploring the 
 
 ## Inspiration 💡
 
-I was inspired by .
-The main idea of this source code is based on [Loading](https://dribbble.com/shots/18701721-Loading) created by [DΞNYS S.](https://dribbble.com/sergushkindotcom).
+The main idea of this source code based on [Loading](https://dribbble.com/shots/18701721-Loading) created by [DΞNYS S.](https://dribbble.com/sergushkindotcom).
 
 ## Screenshots 🌃
 
